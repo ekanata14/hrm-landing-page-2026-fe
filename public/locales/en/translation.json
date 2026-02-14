@@ -1,0 +1,68 @@
+{
+  "navbar": {
+    "home": "Home",
+    "activities": "Activities",
+    "gallery": "Gallery",
+    "about": "About",
+    "team": "Team"
+  },
+  "hero": {
+    "est": "Est. 2024 • Bali",
+    "title": "Faith in",
+    "title2": "Modernity.",
+    "basecamp": "Basecamp",
+    "location_name": "Al-Ihsaan Sanur",
+    "description": "HRM Al-Ihsaan Sanur. Integrating Islamic values with modern progress. Shaping a characterful generation for a brighter future within the frame of",
+    "ukhuwah": "Islamic Brotherhood",
+    "cta_program": "VIEW PROGRAMS",
+    "cta": "Watch Video",
+    "card_title": "HRM Sanur",
+    "card_subtitle": "Youth Organization"
+  },
+  "activities": {
+    "section_subtitle": "Agenda",
+    "section_title": "Upcoming Activities",
+    "view_all": "View All Activities",
+    "read_more": "Read More"
+  },
+  "gallery": {
+    "section_subtitle": "Documentation",
+    "section_title": "Activity Gallery",
+    "view_all": "View All Gallery",
+    "photos_count": "{{count}} Photos"
+  },
+  "team": {
+    "section_subtitle": "Our Team",
+    "section_title": "Committee Members"
+  },
+  "footer": {
+    "brand_description": "Building a virtuous generation in the digital era.",
+    "quick_links": "Quick Links",
+    "contact": "Contact Us",
+    "address": "Jl. Hang Tuah No. 45, Sanur Kaja, Denpasar Selatan, Bali 80227",
+    "copyright": "© 2024 HRM Al-Ihsaan Sanur. All rights reserved."
+  },
+  "common": {
+    "loading": "LOADING...",
+    "back": "Back",
+    "date": "Date",
+    "time": "Time",
+    "location": "Location",
+    "back_to_home": "Back to Home",
+    "join": "Join",
+    "join_now": "Join Now",
+    "language": "Language"
+  },
+  "notfound": {
+    "title": "Page Not Found",
+    "desc": "Sorry, the page you are looking for might have been removed, had its name changed, or is temporarily unavailable.",
+    "back": "Back to Home"
+  },
+  "pages": {
+    "activities_title": "All Activities",
+    "gallery_title": "Activity Gallery",
+    "gallery_back": "Back to Gallery",
+    "related_activities": "Want to see other activities?",
+    "check_schedule": "Check Activity Schedule"
+  }
+}

@@ -1,0 +1,68 @@
+{
+  "navbar": {
+    "home": "Beranda",
+    "activities": "Kegiatan",
+    "gallery": "Galeri",
+    "about": "Tentang",
+    "team": "Pengurus"
+  },
+  "hero": {
+    "est": "Est. 2024 • Bali",
+    "title": "Iman dalam",
+    "title2": "Kemajuan.",
+    "basecamp": "Markas",
+    "location_name": "Al-Ihsaan Sanur",
+    "description": "Himpunan Remaja Muslim Masjid Al-Ihsaan Sanur. Memadukan nilai luhur spiritualitas dengan pola pikir pemuda masa kini dalam bingkai",
+    "ukhuwah": "Ukhuwah Islamiyah",
+    "cta_program": "LIHAT PROGRAM",
+    "cta": "Tonton Video",
+    "card_title": "HRM Sanur",
+    "card_subtitle": "Organisasi Pemuda"
+  },
+  "activities": {
+    "section_subtitle": "Agenda Kegiatan",
+    "section_title": "Kegiatan Mendatang",
+    "view_all": "Lihat Semua Kegiatan",
+    "read_more": "Baca Selengkapnya"
+  },
+  "gallery": {
+    "section_subtitle": "Dokumentasi",
+    "section_title": "Galeri Kegiatan",
+    "view_all": "Lihat Semua Galeri",
+    "photos_count": "{{count}} Foto"
+  },
+  "team": {
+    "section_subtitle": "Tim Kami",
+    "section_title": "Susunan Pengurus"
+  },
+  "footer": {
+    "brand_description": "Membangun generasi berbudi pekerti di era digital.",
+    "quick_links": "Tautan Cepat",
+    "contact": "Hubungi Kami",
+    "address": "Jl. Hang Tuah No. 45, Sanur Kaja, Denpasar Selatan, Bali 80227",
+    "copyright": "© 2024 HRM Al-Ihsaan Sanur. Hak Cipta Dilindungi."
+  },
+  "common": {
+    "loading": "MEMUAT...",
+    "back": "Kembali",
+    "date": "Tanggal",
+    "time": "Waktu",
+    "location": "Lokasi",
+    "back_to_home": "Kembali ke Beranda",
+    "join": "Gabung",
+    "join_now": "Gabung Sekarang",
+    "language": "Bahasa"
+  },
+  "notfound": {
+    "title": "Halaman Tidak Ditemukan",
+    "desc": "Maaf, halaman yang Anda cari mungkin telah dihapus, dipindahkan, atau tidak tersedia sementara.",
+    "back": "Kembali ke Beranda"
+  },
+  "pages": {
+    "activities_title": "Semua Kegiatan",
+    "gallery_title": "Galeri Kegiatan",
+    "gallery_back": "Kembali ke Galeri",
+    "related_activities": "Ingin melihat kegiatan lainnya?",
+    "check_schedule": "Lihat Jadwal Kegiatan"
+  }
+}
